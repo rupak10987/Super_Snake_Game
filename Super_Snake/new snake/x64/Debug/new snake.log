@@ -1,0 +1,17 @@
+﻿  function.cpp
+G:\new snake\new snake\new snake\function.cpp(1303,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\new snake\new snake\new snake\function.cpp(1304,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\new snake\new snake\new snake\function.cpp(1307,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\new snake\new snake\new snake\function.cpp(1308,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\new snake\new snake\new snake\function.cpp(1312,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\new snake\new snake\new snake\function.cpp(1313,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\new snake\new snake\new snake\function.cpp(1382,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\new snake\new snake\new snake\function.cpp(1383,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\new snake\new snake\new snake\function.cpp(1384,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+G:\new snake\new snake\new snake\function.cpp(1385,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+G:\new snake\new snake\new snake\main.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\new snake\new snake\new snake\function.cpp(876): warning C4715: 'GAME::shopfunction': not all control paths return a value
+G:\new snake\new snake\new snake\function.cpp(1258): warning C4715: 'GAME::powerdelay': not all control paths return a value
+  new snake.vcxproj -> G:\new snake\new snake\x64\Debug\new snake.exe
